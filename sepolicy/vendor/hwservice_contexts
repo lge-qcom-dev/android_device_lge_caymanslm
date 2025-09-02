@@ -1,2 +1,0 @@
-vendor.trustonic.tee::ITee                                              u:object_r:hal_trustonic_hwservice:s0
-vendor.trustonic.tee.tui::ITui                                          u:object_r:hal_trustonic_hwservice:s0
